@@ -29,6 +29,10 @@ p span.right{
 	text-align: right;
 }
 
+article{
+	break-after: page;
+}
+
 #an-old-song p:last-child{
 	font-style: italic;
 }
