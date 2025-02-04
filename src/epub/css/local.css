@@ -33,6 +33,6 @@ article{
 	break-after: page;
 }
 
-#an-old-song p:last-child{
+#an-old-song-1 p:last-child{
 	font-style: italic;
 }
