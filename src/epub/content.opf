@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/22732</dc:source>
 		<dc:source>https://www.google.com/books/edition/Collected_Poems/LMsEAQAAIAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/Two_Poems/3ycPAAAAQAAJ</dc:source>
-		<meta property="se:word-count">23848</meta>
+		<meta property="se:word-count">23622</meta>
 		<meta property="se:reading-ease.flesch">74.63</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edward-thomas_poetry</meta>
 		<dc:creator id="author">Edward Thomas</dc:creator>
