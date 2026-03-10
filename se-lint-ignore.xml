@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="t-005">
+			<line>5312</line>
 			<reason>Line is as-is in print.</reason>
 		</ignore>
 	</file>
